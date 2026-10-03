@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "The governance flip"
+    },
+    {
+      "startTime": 41,
+      "title": "BCG: leaders pull away"
+    },
+    {
+      "startTime": 163,
+      "title": "McKinsey: the productivity paradox"
+    },
+    {
+      "startTime": 260,
+      "title": "Agents in production: incident data"
+    },
+    {
+      "startTime": 339,
+      "title": "Reality check and the market"
+    },
+    {
+      "startTime": 427,
+      "title": "Three takeaways"
+    }
+  ]
+}
