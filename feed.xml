@@ -16,9 +16,9 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:category text="Business"/>
-  <itunes:image href="https://muse.ai/podcasts/media/988063677722673/b1c645ee-c268-4ef5-9570-23cc2781359e/cover.png"/>
+  <itunes:image href="https://raw.githubusercontent.com/AkshayAD/ai-strategy-brief-feed/main/cover.png"/>
   <image>
-    <url>https://muse.ai/podcasts/media/988063677722673/b1c645ee-c268-4ef5-9570-23cc2781359e/cover.png</url>
+    <url>https://raw.githubusercontent.com/AkshayAD/ai-strategy-brief-feed/main/cover.png</url>
     <title>The AI Strategy Brief</title>
     <link>https://open.spotify.com/show/7wqokiw9ILZ91GFt4Mhxkf</link>
   </image>
