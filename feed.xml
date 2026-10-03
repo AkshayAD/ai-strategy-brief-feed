@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
   <title>The AI Strategy Brief</title>
   <description>The AI Strategy Brief — an 8-minute weekly briefing on what actually works in enterprise AI. Hosts Akshay and Diu break down the week's biggest research, with the numbers that matter and takeaways you can use on Monday morning. New episode every Saturday. These episodes are AI-generated and human-reviewed for correctness.</description>
   <language>en</language>
-  <link>https://open.spotify.com/show/7wqokiw9ILZ91GFt4Mhxkf</link>
+  <link>https://open.spotify.com/show/3x6x4HNZsBEdYBCrTYe35f</link>
   <atom:link href="https://cdn.jsdelivr.net/gh/AkshayAD/ai-strategy-brief-feed@main/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>Akshay</itunes:author>
   <itunes:owner>
@@ -20,7 +21,7 @@
   <image>
     <url>https://raw.githubusercontent.com/AkshayAD/ai-strategy-brief-feed/main/cover.png</url>
     <title>The AI Strategy Brief</title>
-    <link>https://open.spotify.com/show/7wqokiw9ILZ91GFt4Mhxkf</link>
+    <link>https://open.spotify.com/show/3x6x4HNZsBEdYBCrTYe35f</link>
   </image>
   <item>
     <title>Trailer — Welcome to The AI Strategy Brief</title>
@@ -30,6 +31,7 @@
     <pubDate>Sat, 03 Oct 2026 06:52:16 +0000</pubDate>
     <itunes:duration>31</itunes:duration>
     <itunes:explicit>No</itunes:explicit>
+      <podcast:chapters url="https://raw.githubusercontent.com/AkshayAD/ai-strategy-brief-feed/main/chapters-ep1.json" type="application/json+chapters" />
   </item>
   <item>
     <title>The AI Strategy Brief — Inaugural Edition: The Governance Flip</title>
@@ -47,6 +49,7 @@ Chapters:
     <pubDate>Sat, 03 Oct 2026 06:51:32 +0000</pubDate>
     <itunes:duration>482</itunes:duration>
     <itunes:explicit>No</itunes:explicit>
+      <podcast:chapters url="https://raw.githubusercontent.com/AkshayAD/ai-strategy-brief-feed/main/chapters-ep1.json" type="application/json+chapters" />
   </item>
 </channel>
 </rss>
