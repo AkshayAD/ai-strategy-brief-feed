@@ -1,23 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns2="https://podcastindex.org/namespace/1.0" version="2.0">
 <channel>
   <title>The AI Strategy Brief</title>
   <description>The AI Strategy Brief — an 8-minute weekly briefing on what actually works in enterprise AI. Hosts Akshay and Diu break down the week's biggest research, with the numbers that matter and takeaways you can use on Monday morning. New episode every Saturday. These episodes are AI-generated and human-reviewed for correctness.</description>
   <language>en</language>
   <link>https://open.spotify.com/show/3x6x4HNZsBEdYBCrTYe35f</link>
-  <atom:link href="https://cdn.jsdelivr.net/gh/AkshayAD/ai-strategy-brief-feed@main/feed.xml" rel="self" type="application/rss+xml"/>
-  <itunes:author>Akshay</itunes:author>
-  <itunes:owner>
-    <itunes:name>Akshay</itunes:name>
-    <itunes:email>akshaydewalwar305@gmail.com</itunes:email>
-  </itunes:owner>
-  <itunes:explicit>No</itunes:explicit>
-  <itunes:type>episodic</itunes:type>
-  <itunes:category text="Business"/>
-  <itunes:image href="https://raw.githubusercontent.com/AkshayAD/ai-strategy-brief-feed/main/cover.png"/>
+  <ns0:link href="https://cdn.jsdelivr.net/gh/AkshayAD/ai-strategy-brief-feed@main/feed.xml" rel="self" type="application/rss+xml" />
+  <ns1:author>Akshay</ns1:author>
+  <ns1:owner>
+    <ns1:name>Akshay</ns1:name>
+    <ns1:email>akshaydewalwar305@gmail.com</ns1:email>
+  </ns1:owner>
+  <ns1:explicit>No</ns1:explicit>
+  <ns1:type>episodic</ns1:type>
+  <ns1:category text="Business" />
+  <ns1:image href="https://raw.githubusercontent.com/AkshayAD/ai-strategy-brief-feed/main/cover.png" />
   <image>
     <url>https://raw.githubusercontent.com/AkshayAD/ai-strategy-brief-feed/main/cover.png</url>
     <title>The AI Strategy Brief</title>
@@ -26,11 +23,11 @@
   <item>
     <title>Trailer — Welcome to The AI Strategy Brief</title>
     <description>Meet Akshay and Diu. Every Saturday: eight minutes on what actually works in enterprise AI. AI-generated and human-reviewed.</description>
-    <enclosure url="https://muse.ai/podcasts/media/988063677722673/b1c645ee-c268-4ef5-9570-23cc2781359e/ep-5e4d9886-e6b9-486b-9245-d33d1c9de2f2.mp3" length="249061" type="audio/mpeg"/>
+    <enclosure url="https://muse.ai/podcasts/media/988063677722673/b1c645ee-c268-4ef5-9570-23cc2781359e/ep-5e4d9886-e6b9-486b-9245-d33d1c9de2f2.mp3" length="249061" type="audio/mpeg" />
     <guid isPermaLink="false">ep-5e4d9886-e6b9-486b-9245-d33d1c9de2f2</guid>
     <pubDate>Sat, 03 Oct 2026 06:52:16 +0000</pubDate>
-    <itunes:duration>31</itunes:duration>
-    <itunes:explicit>No</itunes:explicit>
+    <ns1:duration>31</ns1:duration>
+    <ns1:explicit>No</ns1:explicit>
   </item>
   <item>
     <title>The AI Strategy Brief — Inaugural Edition: The Governance Flip</title>
@@ -43,12 +40,20 @@ Chapters:
 (04:20) Agents in production: incident data
 (05:39) Reality check and the market
 (07:07) Three takeaways</description>
-    <enclosure url="https://muse.ai/podcasts/media/988063677722673/b1c645ee-c268-4ef5-9570-23cc2781359e/ep-0deba5bc-0713-497d-af83-becaffcd350f.mp3" length="3860197" type="audio/mpeg"/>
+    <enclosure url="https://muse.ai/podcasts/media/988063677722673/b1c645ee-c268-4ef5-9570-23cc2781359e/ep-0deba5bc-0713-497d-af83-becaffcd350f.mp3" length="3860197" type="audio/mpeg" />
     <guid isPermaLink="false">ep-0deba5bc-0713-497d-af83-becaffcd350f</guid>
     <pubDate>Sat, 03 Oct 2026 06:51:32 +0000</pubDate>
-    <itunes:duration>482</itunes:duration>
-    <itunes:explicit>No</itunes:explicit>
-      <podcast:chapters url="https://raw.githubusercontent.com/AkshayAD/ai-strategy-brief-feed/main/chapters-ep1.json" type="application/json+chapters" />
+    <ns1:duration>482</ns1:duration>
+    <ns1:explicit>No</ns1:explicit>
+      <ns2:chapters url="https://raw.githubusercontent.com/AkshayAD/ai-strategy-brief-feed/main/chapters-ep1.json" type="application/json+chapters" />
   </item>
-</channel>
+<item><title>The AI Strategy Brief — Episode 2: The Explainability Gap</title><description>Akshay and Diu on the explainability gap in enterprise AI: FICO, KPMG, and Stanford. AI-generated and human-reviewed.
+
+Chapters:
+(00:00) The explainability gap
+(00:49) FICO: can you explain it?
+(02:59) KPMG: the money side
+(04:05) Agents rank last
+(04:47) Stanford: junior jobs reframed
+(06:29) Three takeaways</description><enclosure url="https://raw.githubusercontent.com/AkshayAD/ai-strategy-brief-feed/main/ep2-explainability-gap.mp3" length="3814117" type="audio/mpeg" /><guid isPermaLink="false">ep2-explainability-gap-2026-10-10</guid><pubDate>Sat, 10 Oct 2026 03:33:00 +0000</pubDate><ns1:duration>476</ns1:duration><ns1:explicit>No</ns1:explicit><ns2:chapters url="https://raw.githubusercontent.com/AkshayAD/ai-strategy-brief-feed/main/chapters-ep2.json" type="application/json+chapters" /></item></channel>
 </rss>
